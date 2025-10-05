@@ -70,10 +70,10 @@ const services = () => {
                             <IoIosCheckmark className='services__list-icon' />
                             <p>A familiarity with Database concepts.</p>
                         </li>
-                        {/*<li>
+                        <li>
                             <IoIosCheckmark className='services__list-icon' />
-                            <p>Lorem ipsum dolor sit amet.</p>
-                        </li>*/}
+                            <p>Beginner level c#</p>
+                        </li>
                     </ul>
                 </article>
 

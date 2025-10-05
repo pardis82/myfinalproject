@@ -24,7 +24,7 @@ const experience = () => {
                             <FaCheckSquare className='experience__details-icons' />
                             <div>
                                 <h4>CSS</h4>
-                                <small className='text-light'>Elementary level</small>
+                                <small className='text-light'>Beginner</small>
                             </div>
 
                         </article>

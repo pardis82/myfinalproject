@@ -39,7 +39,7 @@ const About = () => {
                     </div>
                     <p>
                         I major in software engineering and as a side hustle,
-                        i have been teaching english in an institute I have also studied in.
+                        I have been teaching english in an institute I have also studied in.
                         Unfortunately I have not had the opportunity to work on many SE projects and I have
                         started working on front end projects only a few month ago.
                         I hope I can improve my skills and soon get a job related to my major.
